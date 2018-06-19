@@ -1,0 +1,4 @@
+inputfile:parse2.csv
+separator:,
+thresh_support:2	
+thresh_confidence:0.28
